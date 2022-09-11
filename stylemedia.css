@@ -1,0 +1,28 @@
+@media (max-width: 34em) {
+  body {
+    background-size: cover;
+  }
+
+  .flex {
+    width: 0;
+  }
+
+  .input input {
+    font-size: 1.8rem;
+    padding: 1rem 2rem;
+  }
+
+}
+
+@media (max-width: 26em) {
+  .input input {
+    font-size: 1.4rem;
+    padding: 1rem 2rem;
+  }
+}
+
+@media (max-width: 20em) {
+  body {
+    background-size: cover;
+  }
+}
